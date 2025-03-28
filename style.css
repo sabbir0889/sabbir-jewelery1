@@ -1,0 +1,125 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(178, 221, 221);
+    height: 80px;
+    align-items: center;
+}
+#logo{
+    margin-left: 8px;
+    height: 70px;
+    border-radius: 100%;
+    border: 2px solid rgb(215, 4, 235);
+}
+nav >ul{
+    display: flex;
+    gap: 20px;
+}
+
+.menu{
+    margin-right: 300px;
+}
+nav ul li {
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+}
+.div1,.div2,.div3,.div4{
+    border: 2px solid red;
+    margin-top: 5px;
+    width: 280px;
+    padding-left: 35px;
+    border-radius: 20px;
+}
+ u >h3{
+color: blue;
+text-align: center;
+
+}
+#all-div{
+    display: flex;
+    gap: 10px;
+    background-color: gainsboro;
+}
+.button:hover{
+background-color: rgb(145, 103, 14);
+color: white;
+height: 30px;
+}
+.rupa{
+    border: 2px solid rgb(13, 241, 82);
+    border-radius: 18px;
+    width: 280px;
+    margin-top: 5px;
+    padding-left: 40px;
+    background-color: beige;
+}
+#all-rupa{
+    display: flex;
+    gap: 10px;
+    
+}
+u,h4{
+    color: blueviolet;
+    text-align: center;
+}
+.loging{
+    background-color: beige;
+    height: 40px;
+    
+}
+.up{
+    background-color: beige;
+    color: aqua;
+}
+.menu-2{
+    margin-right: 100px;
+    display: contents;
+    gap: 15px;
+   
+}
+.input{
+   ;
+}
+.main{
+    background-color: rgb(194, 238, 223);
+    margin-left: 3px;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+#main> h2{
+    color: blue;
+    margin-left: 250px;
+}
+.mark{
+    background-color: cornsilk;
+    color: rgb(255, 0, 255);
+    font-size: 20px;
+}
+.loging-2{
+    background-color: rgb(121, 155, 155);
+}
+.div-2{
+    border: 2px dashed white;
+}
+.metal{
+    border: 2px solid rgb(13, 241, 82);
+    border-radius: 18px;
+    width: 280px;
+    margin-top: 5px;
+    padding-left: 40px;
+    background-color: beige;
+}
+
+#all-metal{
+display: flex;
+gap: 10px;
+}
+.met:hover{
+background-color: black;
+color: white;
+}
+/* .name{
+    text-align: left;
+} */
